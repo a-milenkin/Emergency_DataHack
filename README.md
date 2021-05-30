@@ -18,4 +18,4 @@ Here is our desicion
 
 # Архитектура модели
 
-![](Images/Model_plot.PNG)
+![](Images/Model_plot.jpg)
